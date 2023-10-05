@@ -1,0 +1,33 @@
+1. What is Programming language?
+ans- Making a set of instructions that instruct a computer how to carry out a task            
+     is the process of programming.
+
+
+2. Why do we need a programming language?
+ans-Programming Language is important in our daily life to enhance and increase the power of computers, mobile
+    solutions, and the internet.
+
+3.What are the features of Java?
+ans- a.Object-Oriented 
+     b.Platform independent 
+     c.Simple  
+     d.Secure
+     e.Portable 
+     f.Robust  
+     g.Multi-threaded 
+
+4. What is an Object?
+ans-An object is an entity with state and behaviour, such as a chair, bike, marker, pen, table, or car. It could be
+    intellectual or physical (tangible and intangible). The banking system is an illustration of an intangible entity.
+
+
+5.  What is a class?
+ans-A class is a collection of items with similar characteristics.
+
+6. Explain about the main() method in Java?
+ans-The main () is the starting point for JVM to start execution of a Java program. Without the main () method, JVM
+     will not execute the program. 
+
+    main(): It is a default signature which is predefined in the JVM. It is called by JVM to execute a program line by
+    line and end the execution after completion of this method. 
+
