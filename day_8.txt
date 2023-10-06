@@ -1,0 +1,56 @@
+1. What are the Conditional Operators in Java?
+ans - if
+      if else
+      nested if else
+      switch case statement
+2. What are the types of operators based on the number of operands?
+ans -a.unary operator
+     b.binary operator
+     c.ternary operator
+3. What is the use of Switch case in Java programming?
+ans - we want to do multiple operations on it based upon what value it is storing. In
+such cases the switch statement comes into play.
+
+It is like an if-else ladder with multiple conditions, where we check for equality of a variable with various values 
+
+4. What are the priority levels  of arithmetic operation in Java?
+ans -*,/,% have 1  priority
+     +,-  have 2 priority
+
+5. What are the conditional Statements and use of conditional statements in Java?
+ans -They are used when a condition comprises more than one boolean expression. For instance, if we want to print
+a number only if it is greater than 2 and less than 5, then we will use conditional operators to combine the 2
+expressions. We have 3 types of conditional operators - logical-and, logical-or and ternary operator.
+
+
+6. What is the syntax of if else statement?
+ans -if (condition) {
+
+statement - 1
+
+} 
+else 
+{
+statement - 2
+
+}
+7. What are the 3 types of iterative statements in java?
+ans- 1.while
+      2. for
+       3. do while
+8. Write the difference between for loop and do-while loop?
+ans -Sd Use a for loop when you are traversing a data structure like an arrayd
+)d Use a for loop when you know that loop needs to run ‘n’ number of times.
+
+Whereas,I
+Sd Use a while loop when increment type is nonstandard like i = i * 2d
+)d Use a while loop when you are unsure till when the loop will continue, like while finding the first number divisible by
+
+9. Write a program to print numbers from 1 to 10
+ans - public class print1to10 {
+    public static void main(String args[]){
+        for(int i=1;i<=10;i++)
+            System.out.println(i);
+    }
+}
+
